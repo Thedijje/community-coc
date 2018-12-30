@@ -31,3 +31,6 @@ Be careful with your words and actions. We are a community of professionals, and
 - Unwelcome sexual attention.
 - Advocating for, or encouraging, any of the above behavior.
 - Repeated harassment of others. In general, if someone asks you to stop, then stop.
+
+
+Wants to add your points that we've missed, please submit PR to : https://github.com/Thedijje/community-coc
